@@ -33,32 +33,3 @@ UUID (^11.1.0): Unique ID generation for posts and comments
 ##  GIF  ##
 
 ![](/A2.gif)
-
-
-Installation
-
-Clone the repository:git clone https://github.com/your-username/twitter-clone.git
-
-
-Navigate to the project directory:cd twitter-clone
-
-
-Install dependencies:npm install
-
-
-
-Start the development server:npm run dev
-
-
-
-Usage
-
-Open the application in your browser (usually at http://localhost:5173).
-Sign up or log in to access the platform.
-Create posts, like, comment, and explore other users' content.
-Use the responsive navigation to switch between home, profile, and other pages.
-
-Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-License
-This project is licensed under the MIT License.
